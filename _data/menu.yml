@@ -1,21 +1,14 @@
 - title: PROGRAM
   items:
-    - title: June
-      url : https://june.appsecdays.org/
-    - title: July
-      url : https://july.appsecdays.org/
-    - title: August
-      url: /
-    - title: Capture the Swag
-      url: /sponsors/swag/
+    - title: Workshop
+      url : https://training.owasp.or.id/
+   
 - title: SPONSORING
-  url: https://appsecdays.org/sponsors/
+  url: https://training.owasp.or.id/
 - title: ABOUT
   items:
     - title: How to Connect
-      url : https://appsecdays.org/venue/about/
-    - title: April (past)
-      url: https://april.appsecdays.org/
+      url : https://training.owasp.or.id/venue/about/
     - title: OWASP Foundation
       url  : https://owasp.org/
       opentab: true
