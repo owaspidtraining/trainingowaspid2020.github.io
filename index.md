@@ -9,7 +9,7 @@ layout: event
   "@context": "https://schema.org",
   "@type": "Event",
   "name": "AppSec Indonesia - Summer of Security 2020",
-  "description": "The OWASP Jakarta Chapter is hosting virtual AppSec Days on the last Tuesday and Wednesday in June, July, and August. 
+  "description": "The OWASP Jakarta Chapter is hosting virtual AppSec Days on the last Tuesday and Wednesday in September. 
         The trainings will begin at 12:00pm Eastern Time (USA)/6:00pm Central European Time.",
   "startDate": "2020-06-23",
   "endDate": "2020-08-26",
@@ -17,7 +17,7 @@ layout: event
   "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
   "location": {
     "@type": "VirtualLocation",
-    "url": "https://appsecdays.org/"
+    "url": "https://training.owasp.or.id"
   },
   "offers": [{
     "@type": "Offer",
