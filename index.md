@@ -1,8 +1,6 @@
 ---
-
 title: AppSec Indonesia - November 2020
 layout: event
-
 ---
 <script type="application/ld+json">
 {
