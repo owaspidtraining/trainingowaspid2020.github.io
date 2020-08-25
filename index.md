@@ -1,6 +1,6 @@
 ---
 
-title: AppSec Days - August 2020
+title: AppSec Indonesia - November 2020
 layout: event
 
 ---
@@ -8,8 +8,8 @@ layout: event
 {
   "@context": "https://schema.org",
   "@type": "Event",
-  "name": "AppSec Days - Summer of Security 2020",
-  "description": "The OWASP Foundation is hosting virtual AppSec Days on the last Tuesday and Wednesday in June, July, and August. 
+  "name": "AppSec Indonesia - Summer of Security 2020",
+  "description": "The OWASP Jakarta Chapter is hosting virtual AppSec Days on the last Tuesday and Wednesday in June, July, and August. 
         The trainings will begin at 12:00pm Eastern Time (USA)/6:00pm Central European Time.",
   "startDate": "2020-06-23",
   "endDate": "2020-08-26",
@@ -25,15 +25,15 @@ layout: event
     "price": "495",
     "priceCurrency": "USD",
     "validFrom": "2020-05-20",
-    "url": "https://appsecdays.org/register/",
+    "url": "https://training.owasp.or.id/register/",
     "availability": "https://schema.org/InStock"
   },{
     "@type": "Offer",
     "name": "Member Training Courses",
-    "price": "445",
+    "price": "",
     "priceCurrency": "USD",
     "validFrom": "2020-05-20",
-    "url": "https://appsecdays.org/register/",
+    "url": "https://training.owasp.or.id/register/",
     "availability": "https://schema.org/InStock"
   }]
 }
@@ -43,7 +43,7 @@ layout: event
 
 {{ site.data.event-details.pitch | markdownify }}
 
- **[Check out our sponsors for a chance to win some cool prizes](https://appsecdays.org/sponsors/swag/)**
+ **[Check out our sponsors for a chance to win some cool prizes](https://training.owasp.or.id/sponsors/swag/)**
 
 ### Training Sessions hosted 12pm ET (1800 CET) Include
 
